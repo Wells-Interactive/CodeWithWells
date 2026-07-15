@@ -1,4 +1,4 @@
-# 👨‍💻 CodeWithWells
+# 👨‍💻 Code With Wells Program!
 
 <div align="center">
 
@@ -22,11 +22,11 @@
 
 ---
 
-# 🚀 Welcome to CodeWithWells
+# 🚀 Welcome to Code With Wells
 
-Welcome to the **CodeWithWells** community!
+Welcome to the **Code With Wells** community!
 
-This repository is the **official development hub** for the CodeWithWells Program, a growing initiative dedicated to equipping young people with practical software engineering skills through mentorship, collaboration, and real-world projects.
+This repository is the **official development hub** for the Code With Wells Program, a growing initiative dedicated to equipping young people with practical software engineering skills through mentorship, collaboration, and real-world projects.
 
 Whether you're writing your first line of code or contributing to production-ready applications, you're welcome here.
 
@@ -34,7 +34,7 @@ Whether you're writing your first line of code or contributing to production-rea
 
 # 🌍 What is CodeWithWells?
 
-CodeWithWells is a developer education and mentorship initiative founded by **Wells Interactive Services Ltd.**
+Code With Wells is a developer education and mentorship initiative founded by **Wells Interactive Services Ltd.**
 
 Our mission is simple:
 
@@ -81,7 +81,7 @@ Members gain experience in areas including:
 
 # 📚 Repository Structure
 
-This repository serves as the central workspace for CodeWithWells projects.
+This repository serves as the central workspace for Code With Wells projects.
 
 ```text
 CodeWithWells/
