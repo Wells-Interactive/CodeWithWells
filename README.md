@@ -32,9 +32,9 @@ Whether you're writing your first line of code or contributing to production-rea
 
 ---
 
-# 🌍 What is CodeWithWells?
+# 🌍 What is Code With Wells?
 
-Code With Wells is a developer education and mentorship initiative founded by **Wells Interactive Services Ltd.**
+Code With Wells is a developer education and mentorship initiative founded by **Wells Interactive Services Ltd.** Founder **Mr.Wells**
 
 Our mission is simple:
 
@@ -81,7 +81,7 @@ Members gain experience in areas including:
 
 # 📚 Repository Structure
 
-This repository serves as the central workspace for Code With Wells projects.
+This repository serves as the central workspace for Code With Wells projects. Submodules are private
 
 ```text
 CodeWithWells/
