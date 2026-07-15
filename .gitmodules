@@ -1,3 +1,3 @@
 [submodule "brainyte-ai-terminal-helper"]
-	path = brainyte-ai-terminal-helper
-	url = git@github.com:Wells-Interactive/brainyte-ai-terminal-helper-dev.git
+    path = brainyte-ai-terminal-helper
+    url = git@github.com:Wells-Interactive/brainyte-ai-terminal-helper.git
