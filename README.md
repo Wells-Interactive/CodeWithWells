@@ -120,7 +120,7 @@ We welcome learners, developers, designers, technical writers, testers, and ment
 
 ### Join the Community
 
-Become a member of the CodeWithWells Program:
+Become a member of the Code With Wells Program:
 
 👉 https://forms.gle/dYAQwweHzUSqNuwC8
 
