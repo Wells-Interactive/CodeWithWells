@@ -264,7 +264,7 @@ Together, we're creating opportunities, building careers, and changing lives—o
 http://www.wellsint.site
 
 **Brainyte**
-http://www.wellsint.site/brainyte/
+http://www.wellsint.site/brainyte
 
 **Community Registration**
 
