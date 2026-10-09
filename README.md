@@ -91,7 +91,6 @@ CodeWithWells/
 ├── tutorials/
 ├── examples/
 ├── assets/
-├── .github/
 ├── README.md
 └── ...
 ```
